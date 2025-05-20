@@ -1,6 +1,6 @@
-# livetest2
+# ContactList
 
-A new Flutter project.
+It's a Simple Contact List App.
 
 ## Getting Started
 
